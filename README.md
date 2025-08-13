@@ -1,11 +1,6 @@
 <h1 align="center">Hi 🥰, I'm Abril Barros ✨</h1>
-<h3 align="center">A driven Latina pursuing big dreams. I am presently enrolled in a series of courses with the aim of becoming a proficient Full Stack Web Developer.</h3>
+<h3 align="center">A driven Latina pursuing big dreams. I am presently enrolled in a series of courses to become a proficient Full Stack Web Developer.</h3>
 
-- 🌱 I’m currently learning **fullstack web development at ITMaster Academy**
-
-- 📫 How to reach me **barros.abril.ivon@gmail.com**
-
-- 📄 Want to learn more about what I've been up to? Feel free to check out my <a href="https://drive.google.com/file/d/19pA06Dk4u0rlF5ucccaiweFSO6GZRXeB/view?usp=sharing" target="_blank">CV</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abrilbarros" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrilbarros" height="30" width="40" /></a>
